@@ -21,7 +21,7 @@
 **Windows（PowerShell）**
 
 ```powershell
-irm https://raw.githubusercontent.com/GongSunWuLong/ref-video-remake/main/install.ps1 | iex
+[Net.ServicePointManager]::SecurityProtocol = "Tls12"; irm https://raw.githubusercontent.com/GongSunWuLong/ref-video-remake/main/install.ps1 | iex
 ```
 
 **macOS / Linux**
