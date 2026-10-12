@@ -1,0 +1,7 @@
+{
+  "name": "ref-video-remake",
+  "version": "1.0.0",
+  "description": "对标参考视频做口播短视频（抖音/TikTok 竖屏）：自动分析参考视频的比例、节奏、字幕样式，用新文案 + AI 配音或自己的录音 + 无版权素材或本地素材库生成成片，并完整校验。",
+  "author": { "name": "GongSunWuLong" },
+  "keywords": ["video", "douyin", "tiktok", "shorts", "ffmpeg", "tts", "subtitles", "短视频", "口播"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ref-video-remake",
+  "owner": { "name": "GongSunWuLong" },
+  "metadata": {
+    "description": "对标参考视频做口播短视频：参考视频 + 文案 + 配音 + 素材 → 成片",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ref-video-remake",
+      "source": "./plugins/ref-video-remake",
+      "description": "Remake a vertical voice-over short (Douyin/TikTok style) matching a reference video's ratio, rhythm and subtitle look, with TTS or your own recording and free-stock or local footage.",
+      "version": "1.0.0"
+    }
+  ]
+}
